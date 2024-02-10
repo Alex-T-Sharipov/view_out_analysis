@@ -1,5 +1,4 @@
 *.csv
 .venv
-*.png
 script.py
 Archive
